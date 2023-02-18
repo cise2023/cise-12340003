@@ -1,10 +1,8 @@
 Exmaple of a paper source in LaTeX
 
-Section
-=======
+# Section
 
-Subsection
-----------
+## Subsection
 
 Paragraph with inline formula $\int _a ^b \sin(x) dx$.
 
